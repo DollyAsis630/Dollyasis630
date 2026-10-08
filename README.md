@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Dolly Asis
 
-### 🔐 Cybersecurity Enthusiast | CEH v13
 
 
 
